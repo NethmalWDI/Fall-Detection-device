@@ -1,8 +1,7 @@
 # Fall Detection Device
 
-## Team MedMinds
 
-This project was developed as part of our 2nd semester project at the University of Moratuwa. The objective of this project is to design and implement a device that detects falls in elderly people and sends a notification to a designated person via SMS.
+This team project was developed as part of our 2nd semester project at the University of Moratuwa. The objective of this project is to design and implement a device that detects falls in elderly people and sends a notification to a designated person via SMS.
 
 ## Project Overview
 
