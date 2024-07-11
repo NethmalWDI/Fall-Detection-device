@@ -37,3 +37,9 @@ Our fall detection algorithm is based on analyzing movement patterns and acceler
 - **ESP8266**: WiFi module for internet connectivity.
 - **Custom PCB**: Designed with Altium for integrating the components.
 - **Enclosure**: Designed with SOLIDWORKS to house the device.
+
+## Team members
+-Snadun Induwara  
+-Imasha Nethmal  
+-Lohan Atapattu
+-Kawenndra Alwis
