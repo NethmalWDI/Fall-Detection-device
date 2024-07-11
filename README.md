@@ -39,7 +39,7 @@ Our fall detection algorithm is based on analyzing movement patterns and acceler
 - **Enclosure**: Designed with SOLIDWORKS to house the device.
 
 ## Team members
--Snadun Induwara  
--Imasha Nethmal  
--Lohan Atapattu
--Kawenndra Alwis
+[Snadun Induwara](https://github.com/sandun21)  
+[Imasha Nethmal](https://github.com/NethmalWDI)  
+Lohan Atapattu  
+Kawenndra Alwis
